@@ -47,7 +47,6 @@ Three.js
 - Initialize scene
 - Initialize Earth, Atmosphere,Asteroid
 
-IMMAGINE
 
 ## Formulation of Motion
 - Before entering the Earth's atmosphere the asteroid performs a uniformly accelerated motion without loss of mass
